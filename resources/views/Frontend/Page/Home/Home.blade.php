@@ -8,15 +8,15 @@
             <img src="{{asset($carousels->carousel_image)}}" c class="d-block w-100" alt="...">
           </div>
         @endforeach
-      {{-- <div class="carousel-item active">
+    {{-- <div class="carousel-item active">
         <img src="..." class="d-block w-100" alt="...">
-      </div> --}}
-      {{-- <div class="carousel-item">
+      </div> 
+    <div class="carousel-item">
         <img src="..." class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
         <img src="..." class="d-block w-100" alt="...">
-      </div> --}}
+      </div>  --}}
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
