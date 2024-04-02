@@ -40,9 +40,9 @@ class CarouselController extends Controller
         $activeCarousel = Carousel::findOrFail($id);
         $activeCarousel->status = 'deactive';
         $activeCarousel->save();
+
+
         return redirect()->back();
-
-
     }
 
 }
