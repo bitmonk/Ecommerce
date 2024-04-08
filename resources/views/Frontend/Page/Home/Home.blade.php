@@ -29,5 +29,58 @@
   </div>
 </section>
 
+<div class="row justify-content-around">
+  <div class="col sm-6 d-flex p-3">
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYWEqe1RIH3vSyfP6_aXwp6WIOtxOPhXEXJmlolJjlg&s" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Washing Machine</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Add to cart</a>
+      </div>
+    </div>
+  </div>
+  <div class="col sm-6 d-flex p-3">
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYWEqe1RIH3vSyfP6_aXwp6WIOtxOPhXEXJmlolJjlg&s" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Washing Machine</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Add to cart</a>
+      </div>
+    </div>
+  </div>
+  <div class="col sm-6 d-flex p-3">
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYWEqe1RIH3vSyfP6_aXwp6WIOtxOPhXEXJmlolJjlg&s" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Washing Machine</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Add to cart</a>
+      </div>
+    </div>
+  </div>
+  <div class="col sm-6 d-flex p-3">
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYWEqe1RIH3vSyfP6_aXwp6WIOtxOPhXEXJmlolJjlg&s" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Washing Machine</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Add to cart</a>
+      </div>
+    </div>
+  </div>
+  <div class="col sm-6 d-flex p-3">
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYWEqe1RIH3vSyfP6_aXwp6WIOtxOPhXEXJmlolJjlg&s" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Washing Machine</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Add to cart</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 @endsection
